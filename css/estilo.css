@@ -1,0 +1,116 @@
+.carousel-item > .card{
+    position: relative;
+    margin-top: -30%;
+    left: 15%;
+}
+
+.anchor {
+    scroll-margin-top: 10rem; 
+  }
+
+.nav-item > .nav-link:hover{
+    color: #5b86eb;
+    transition: 0.8s;
+}
+
+.caixaInfo{
+    list-style: none;
+    margin-top: 18%;
+    margin-bottom: 10%;
+}
+
+.caixaInfo > li{
+    margin-top: 7%;
+}
+
+.navbar > .container{
+    background-color: #182154;
+    position: relative;
+    width: 70%;
+    top: -38%;
+    margin-top: -2.3%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    justify-content: center; 
+}
+
+#SobreMim{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    text-align: center;
+}
+.txtSobre{
+    line-height: 1.7em;
+    margin-top: 5%;
+    font-size: 1.1rem;
+}
+
+#formacao > h3{
+    margin-bottom: 10%;
+} 
+
+#formacao {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+#habilidades{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8%;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.align-items-start{
+    margin-top: 10%;
+}
+
+#contato{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    border-radius: 20px;
+    background-color: #A9A9A9;
+}
+
+.tituloCont{
+    top: 15%;
+    margin-bottom: 10%;
+}
+
+footer {
+    background-color: #1a2b50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 20%;
+    margin-top: 8%;
+} 
+  
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 1%;
+    margin-bottom: 2rem;
+}
+  
+.footer-links a:hover {
+    text-decoration: underline;
+}
+  
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 0.8rem;
+    padding: 1rem;
+}  
